@@ -1,0 +1,73 @@
+.body {
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    margin: 0 !important;
+}
+
+.beach img {
+    width: 100%;
+    margin: -0px -0px !important;
+    overflow: initial;
+    box-sizing: inherit;
+    vertical-align: middle;
+    border: none;
+
+
+}
+
+.beach {
+    position: relative;
+}
+
+.badge {
+    position: absolute;
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 400px;
+    left: -0px;
+    margin: 10px 0;
+    bottom: 45px;
+    color: #000 !important;
+    background-color: rgba(255, 183, 49, 0.6) !important;
+    padding: 16px 20px;
+    padding-right: 650px;
+}
+
+.badge:hover {
+    background-color: rgba(255, 183, 49, 0.8) !important;
+}
+
+.row {
+    padding: 0.01em 16px !important;
+    margin-left: 28px;
+    padding-top: 70px !important;
+}
+
+.rowcontainer {
+    float: left;
+    font-size: auto;
+    width: 49.99999%;
+    font-family: auto;
+    margin-bottom: 48px !important;
+
+
+
+
+}
+
+.rowcontainer img {
+    min-width: 601px;
+    vertical-align: middle;
+    border: none;
+    border-top: 6px solid #ccc !important;
+    border-color: #ffc107 !important
+}
+
+.rowcontainer h2 {
+    font-family: "Segoe UI", Arial, sans-serif !important;
+    font-size: 30px;
+    font-weight: 400;
+
+    margin: 10px 0;
+}
